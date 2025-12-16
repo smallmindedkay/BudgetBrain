@@ -1,0 +1,7 @@
+{
+  "name": "BudgetBrain",
+  "description": "A mobile-first personal finance tracker powered by Gemini to analyze receipts and provide personalized financial advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
